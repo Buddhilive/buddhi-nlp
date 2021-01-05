@@ -12,7 +12,7 @@
 # References
 
 * Developed and maintained by [Buddhilive Developers](https://www.buddhilive.com/).
-* Documentation: [BuddhiNLP Documentation](https://github.buddhilive.com/).
+* Documentation: [BuddhiNLP Documentation](https://www.buddhilive.com/2021/01/how-to-build-chatbot-with-javascript.html).
 
 <hr>
 
