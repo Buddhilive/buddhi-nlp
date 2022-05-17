@@ -5,7 +5,7 @@
 
 # BuddhiNLP
 
-> <span style="color: #D32F2F;>This project is deprecated and migrated to <a href="https://github.com/BerkeliumLabs/nlp-core">@berkelium/nlp-core</a>. Please refer the new open source library.</span>
+<span style="color: #D32F2F>This project is deprecated and migrated to <a href="https://github.com/BerkeliumLabs/nlp-core">@berkelium/nlp-core</a>. Please refer the new open source library.</span>
 
 ![BuddhiNLP Logo](https://1.bp.blogspot.com/-QidO4TSV1NM/XuEUuT-unTI/AAAAAAAAL1I/zHmz0Z-GsicoPe7MkXEbhmkMPqSYLKC0gCK4BGAsYHg/header.png)
 
