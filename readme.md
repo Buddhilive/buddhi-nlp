@@ -5,9 +5,9 @@
 
 # BuddhiNLP
 
-<strong style="display: flex; justify-content: center; align-items: center; background-color: #D32F2F; color: #fff; padding: 12px;>
+<span style="display: flex; justify-content: center; align-items: center; background-color: #D32F2F; color: #fff; padding: 12px;>
   <p>This project is deprecated and migrated to <a href="https://github.com/BerkeliumLabs/nlp-core">@berkelium/nlp-core</a>. Please refer the new open source library.</p>
-</strong>
+</span>
 
 ![BuddhiNLP Logo](https://1.bp.blogspot.com/-QidO4TSV1NM/XuEUuT-unTI/AAAAAAAAL1I/zHmz0Z-GsicoPe7MkXEbhmkMPqSYLKC0gCK4BGAsYHg/header.png)
 
